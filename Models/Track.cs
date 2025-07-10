@@ -13,17 +13,14 @@ namespace MusicPlayer.Models
 
         public virtual void Play()
         {
-            // Implementation handled by AudioPlayer
         }
 
         public virtual void Pause()
         {
-            // Implementation handled by AudioPlayer
         }
 
         public virtual void Stop()
         {
-            // Implementation handled by AudioPlayer
         }
     }
 }
